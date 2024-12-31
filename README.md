@@ -11,10 +11,10 @@ Create a New File and paste the Code:
 
 Install Required Tools:
 Ensure wget and dd are installed on your system:
-Linux/Mac: These are typically pre-installed.
-Windows: Install them using a package manager like Chocolatey or use WSL (Windows Subsystem for Linux).
+(Linux/Mac: These are typically pre-installed.
+Windows: Install them using a package manager like Chocolatey or use WSL (Windows Subsystem for Linux).)
 
-Run the Program:
+Run the Program
 
 Run the script with bash
 
